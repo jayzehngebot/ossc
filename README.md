@@ -5,7 +5,7 @@
 ### 2. Can OSSC excel in spheres of camper development, creative-engagement, and experiential education?
 ### 3. Camp is a place for future makers. Could serve everyone.
 
-![Make Or Consume](http://www.jayzehngebot.com/ossc/img/MakeOrConsume.jpg)
+-> ![Make Or Consume](http://www.jayzehngebot.com/ossc/img/MakeOrConsume.jpg) <-
 
 ------------------------------------------	
 
