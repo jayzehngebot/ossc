@@ -1,9 +1,11 @@
-## Open-Source Summer Camp
+## Open-Source Summer Camp (OSSC)
 ### CAMP ROOK & CAMP ABLE
 
-### 1. Can a low-cost camp compete, without compromising on staff, safety, facilities & equipment?
-### 2. Can Maker Camp excell in terms of camper development, creative-engagement, and experiential education?
+### 1. Can a low-cost overnight camp compete without compromising on staff, safety, facilities & equipment?
+### 2. Can OSSC excel in spheres of camper development, creative-engagement, and experiential education?
 ### 3. Camp is a place for future makers. Could serve everyone.
+
+![Make Or Consume](http://www.jayzehngebot.com/ossc/img/MakeOrConsume.jpg)
 
 ------------------------------------------	
 
@@ -12,6 +14,7 @@
 #### Kids Participate in Building The Camp, Physically and Conceptually.
 #### Targets the "hobbyist" niche overlooked by traditional summer camps.
 #### Serve A diverse and growing general population, not just the well-to-do.
+#### Energy : Net Positive 
 
 #### What physical things could be unique to/for individual kids at a summer camp?
 #### Where can they experience a tight educational feedback loop
@@ -133,13 +136,15 @@ Continued exposure to changing landscape.
 #### 3 Years Out : part time teaching a University-level new media / creative tech program. 
 taking some design commissions and working on OSSC > Raising Capital, Building Identity, Generating Interest, Networking.
 
-#### 5 Years Out : I am 33. a small campus + farm exists, with access to water. We're heading into the second summer of OSSC, with 150% Enrollment. 
+#### 5 Years Out : I am 33. A growing camp + farm exists, with access to water. We're heading into the second summer of OSSC, with 150% Enrollment. 
 
 ## Moneys
 
 Sliding Scale 1 - 3K per kid per summer - 2 Months total time. 
 
 #### Envelope Math
+Startup Capital : 1M? Land, Tools, Resources & Development?
+
 45 * 2000 90k / 18 = 5k 
 5k per staff for a summer of work?
 
