@@ -97,6 +97,8 @@ likes summer camp, would appreciate the retreat come summer(or can be oncall com
 
 *  **3 Co-Councilors**, Paired into bunks above. Flex.
 
+* **Legal** >> sigh
+
 ------------------------------------------	
 
 ## Addressing Michael Porter's Five Factors 
@@ -173,13 +175,15 @@ Startup Capital : 1M? Land (~500k) , Tools, Resources, Development.
 ^ Admittedly, mostly making this up.
 
 45 * 2000 90k / 18 = 5k 
-5k per staff for a summer of work?
+3k per staff for a summer of work?
+60K for Staff. 15k For Material Items + Food, 15k For insurance?
+3k Per Summer
 
 This is ~ 1/5th the Cost of current Summer Camp 
 
 ---------------------------------------------
 
-  ![Maker](http://www.jayzehngebot.com/ossc/img/FUTUREMAKER.jpg)
+  ![Maker](http://www.jayzehngebot.com/ossc/img/CityArts.jpg)
 
 
 
