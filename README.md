@@ -1,13 +1,57 @@
-# Open-Source Summer Camp Is a Real Place in the World
+# Open-Source Summer Camp 
+aka Camp Makerkid 
+aka CAMP ROOK
 
-# What if Kids Built the Camp?
+### Can a low-cost camp compete, without compromising on staff, safety, facilities & equipment?
+### Can Maker Camp excell in terms of camper development, creative-engagement, and experiential education?
+### Does summer camp best serve to shape future country club members  Or is camp a place for young and future makers?
+### Can we do Camp Better?
 
-# Can a camp compete in terms of Safety, Facilities and Equiptment, on a much smaller budget?
+#### Targets the "hobbyist" niche overlooked by traditional summer camps
+#### Serve A Growing, Diverse, And Financially Struggling General Population
 
-# Moreover, can that camp excell in terms of personal investment, camper-engagement, and skill-based education, if the campers are 
+#### What physical things could be unique to/for individual kids at a summer camp?
+	* Personally-Fit Sporting Equiptment. 
+	* Architecture / ModelBuilding
+	* Games / Chess / rainy-day activities
+	* Soap / Toothbrush Tray (Name, Team, Year?)
+	* Suit CoatHooks?
+	* Flashlight (Part of DIY Flashlight Activity)
 
-# Is Summer Camp Practice Space for Future Country Club Members? or is Summer Camp a place for Future Makers?
+### Personal Strengths:
 
+* Bridge Builder / Finder of Common Ground.
+* Background in design and passion for visual communication.
+* Natural inclination to teach, enjoy working with kids.
+* I A Problem Solver > I Solve Problems.
+* Openminded + Open to Criticism
+
+
+### Summer Camp Specific
+* Grew Up Summer Camping
+
+* Sometimes this is a problem: I am kind of a generalist
+* But for this, it would be a strength. 
+
+
+### Weaknesses:
+* Micromanager
+* Too-Goal-Oriented > Can be Insensitive
+
+
+
+### People & Skills Needed
+#### All are subset of people who love kids, and love to teach
+* Technician / Carpenter / Engineer > Ideally, Someone who fuses traditional construction skills and modern DigiFab skills
+* Systems Person > Ideally, Someone who eats / sleeps / dreams of systems & structures. 
+* Health / Safety > A near-retirement Doctor (or two) who can take time away from personal practice,
+likes summer camp, would appreciate the retreat come summer(or can be oncall come weekends) and wouldn't be in it for the money.
+* Architect / Planner > Can work on Micro and Macro Level. Passion for Camp.
+
+* Chief and his Three Advisors
+	1. Physical Specialist > Knows Sports
+	2. Skill Specialist > Knows Tech
+	3. Nature Specialist > Knows Earth
 
 ## Traditional Summer Camp Is : 
 
@@ -56,7 +100,6 @@
 1: Kids Participate in Building The Camp, Physically and
   Conceptually.
 2: Opportunties to Exend Education into Design + Printing
-3: 
 
 
 
@@ -73,9 +116,17 @@ Background:
 
 	My summers were a time for me to explore and begin forging my own character. Summer camp was an important platform for building character. A place to practice values-driven living. 
 
-			Unfortunately, like school, Sleepaway Camp is problematically expensive, and not generally viewed as critical to one's success, like school (mostly) still is.
+			
+			Like Higher Ed, Summer Camp is problematically expensive.
+			
+			Unlike Higher Ed, Summer Camp is not generally viewed as critical to one's success.
+			
+			Therefore, Summers are Educationally Underutilized. 
+			
+			Moreover, Summer Camp provides space to be less test-driven / goal-oriented than school, without sacrificing positive outcomes. 
+			
+			I see opportunity for Growth In Ways That Matter
 
-			Summer Camp provides the space and opportunity, however, do be less test-driven and goal-oriented than school, without sacrificing learning as an outcome. 
 
 	Next Year. Continued Development of Web Skills > Build Out OSSC Web Functionality > Can the web :
 
