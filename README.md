@@ -1,12 +1,11 @@
 # Open-Source Summer Camp  (OSSC)
 ------------------------------------------	
 
-## Summer Camp is great
-## But can it be better?
+## Summer Camp is great, but can it be better?
 
 #### 1. Can a low-cost overnight camp compete without compromising on staff, safety, facilities & equipment?
 #### 2. Can OSSC excel at creative-engagement, providing opportunities for ownership, and experiential education?
-#### 3. Can OSSC model a batter balance of intellect and athleticism?
+#### 3. Can OSSC model a better balance of intellect and athleticism? Nature and technology?
 
 ## What Could Summer Camp for Future Makers look like?
 
@@ -18,7 +17,6 @@
 
 ## Basically, ITP with Canoes
 
-### What physical things could be unique to/for individual kids at a summer camp?
 
 * Kids Participate in Building The Camp, Physically and Conceptually.
 * Targets the "hobbyist" niche under-served by traditional / sports-oriented summer camps.
@@ -26,8 +24,8 @@
 * Off-Grid / Net-Positive / Self-Sustaining
 * Food Conscious
 
-#### What physical things could be unique to/for individual kids at a summer camp?
-#### Where can they experience a tight educational / environmental feedback loop
+#### Where can kids experience a tight educational / environmental feedback loop?
+
 	* Individually-Fit Equiptment. 
 	* ModelBuilding (Mini Boats, Ball Tracks & Building-Blocks)
 	* Games / Rainy-day Activities
@@ -100,7 +98,8 @@ likes summer camp, would appreciate the retreat come summer(or can be oncall com
 
 ------------------------------------------	
 
-## Addressing Michael Porter's Five Factors 
+## Addressing Michael Porter's Five Factors :
+
 1. Technology Changes - Better Positioned to build foundation on newly accessible tools.
 2. Regulation is less a concern than insurance coverage?
 3. Competition - Feels like "Ripe For Disruption" territory. i.e. Focused on serving its core market, to the neglect of growing low-cost market. Business-as-usual approach.
@@ -112,7 +111,7 @@ I know a ton of smart, skillful, responsible people who are good with kids and s
 
 #  Strategy
 
-##  Background :
+##  Context:
 	
 I attended summer camp for two months every summer from the age of 7 until I was 14. It was an all boys camp, located in Maine. I loved it. I'm lucky I was able to go. 
 My summers were a time for me to explore and begin forging my own character. Summer camp was an important platform for building character and practicing values.
@@ -125,9 +124,9 @@ Like Higher Ed, Summer Camp is problematically expensive.
 			
 Unlike Higher Ed, Summer Camp is not generally viewed as critical to one's success.
 			
-Therefore, For too many kids, summers are squandered.
+Therefore, For too many kids, summers go squandered.
 			
-Moreover, Summer Camp provides space to be less test-driven / goal-oriented than school, without sacrificing positive outcomes. 
+Summer Camp provides space to be less test-driven / goal-oriented than school, without sacrificing positive outcomes. 
 			
 I See Opportunity for Real Change & Individual Growth In Ways That Matter
 
@@ -142,15 +141,15 @@ Practicing the Following Capabilities :
 * Practice Teaching
 * Credentials / Credibility
 
-#### Next Year. Work hard at ITP:
+#### Next Year. Work hard at ITP. Focus on studies. 
 
 #### Upon Graduation. Potentially Pursue ITP Resident Position:
 * Continued Open Source Activity. Practice Teaching, Network Building.
 * Continued exposure to changing educational / technological landscape. 
 
 #### 3 Years Out : 
-* Part time teaching a University-level new media / creative tech program. 
-* design commissions. 
+* Teaching a University-level new media / design + tech program. 
+* Design commissions. 
 * Nights + Weekends / during summer, working on OSSC :
 Raising Capital, Building Identity, Generating Interest, Finding Committed Teammates.
 
