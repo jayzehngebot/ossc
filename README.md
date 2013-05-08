@@ -2,12 +2,12 @@
 ## Open-Source Summer Camp  (OSSC)
 ------------------------------------------	
 
-#### Summer Camp is great
-#### But can it be better?
+## Summer Camp is great
+## But can it be better?
 
-### 1. Can a low-cost overnight camp compete without compromising on staff, safety, facilities & equipment?
-### 2. Can OSSC excel at creative-engagement, providing opportunities for ownership, and experiential education?
-### 3. Can OSSC model a batter balance of intellect and athleticism?
+#### 1. Can a low-cost overnight camp compete without compromising on staff, safety, facilities & equipment?
+#### 2. Can OSSC excel at creative-engagement, providing opportunities for ownership, and experiential education?
+#### 3. Can OSSC model a batter balance of intellect and athleticism?
 
 ## What Could Summer Camp for Future Makers look like?
 
