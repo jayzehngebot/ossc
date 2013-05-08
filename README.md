@@ -1,57 +1,75 @@
-# Open-Source Summer Camp 
-aka Camp Makerkid 
-aka CAMP ROOK
+## Open-Source Summer Camp 
+aka Camp Makerkid aka
+## CAMP ROOK & CAMP P
 
-### Can a low-cost camp compete, without compromising on staff, safety, facilities & equipment?
-### Can Maker Camp excell in terms of camper development, creative-engagement, and experiential education?
-### Does summer camp best serve to shape future country club members  Or is camp a place for young and future makers?
-### Can we do Camp Better?
+### 1. Can a low-cost camp compete, without compromising on staff, safety, facilities & equipment?
+### 2. Can Maker Camp excell in terms of camper development, creative-engagement, and experiential education?
+### 3. Does summer camp best serve to shape future country club members  Or is camp a place for young and future makers?
 
+## Can we do Camp Better?
+
+#### Kids Participate in Building The Camp, Physically and Conceptually.
 #### Targets the "hobbyist" niche overlooked by traditional summer camps
-#### Serve A Growing, Diverse, And Financially Struggling General Population
+#### Serve A Diverse and Growing General Population, not just the Well-Off
 
 #### What physical things could be unique to/for individual kids at a summer camp?
 	* Personally-Fit Sporting Equiptment. 
-	* Architecture / ModelBuilding
-	* Games / Chess / rainy-day activities
+	* ModelBuilding (Mini Boats, Ball Tracks & Building-Blocks)
+	* Games / Chess / Rainy-day Activities
 	* Soap / Toothbrush Tray (Name, Team, Year?)
 	* Suit CoatHooks?
-	* Flashlight (Part of DIY Flashlight Activity)
+	* (Image : First DIY Activity : Personal Torch Assembly (A Flashlight))
 
-### Personal Strengths:
+### My Personal Strengths:
 
 * Bridge Builder / Finder of Common Ground.
-* Background in design and passion for visual communication.
+* Background in design and passion for communication.
 * Natural inclination to teach, enjoy working with kids.
-* I A Problem Solver > I Solve Problems.
+* I Am A Problem Solver > I Solve Problems.
 * Openminded + Open to Criticism
-
+* Fearless Editor. Trained Printer. Competent Tech.
 
 ### Summer Camp Specific
 * Grew Up Summer Camping
-
-* Sometimes this is a problem: I am kind of a generalist
-* But for this, it would be a strength. 
-
+* Solid Role for a Generalist
 
 ### Weaknesses:
 * Micromanager
-* Too-Goal-Oriented > Can be Insensitive
+* Overly-Goal-Oriented
+* Never run anything semi-big before. 
 
+## People & Skills Needed
+#### All are subset of people who love kids and love to teach
+#### I believe A balance of men and women is important 
 
-
-### People & Skills Needed
-#### All are subset of people who love kids, and love to teach
-* Technician / Carpenter / Engineer > Ideally, Someone who fuses traditional construction skills and modern DigiFab skills
-* Systems Person > Ideally, Someone who eats / sleeps / dreams of systems & structures. 
+* Director > Guidance, Communications, Recruitment, Officiation. 
+* Technician / Carpenter / Engineer > Ideally, Someone who understands and interweaves traditional construction skills and modern DigiFab skills
+	a. staff of / one off / two in / season.
+* Systems Person > Ideally, Someone who loves / dreams of systems & structures, organization. Competent Coder.
+	a Would work most closely with Director
 * Health / Safety > A near-retirement Doctor (or two) who can take time away from personal practice,
-likes summer camp, would appreciate the retreat come summer(or can be oncall come weekends) and wouldn't be in it for the money.
+likes summer camp, would appreciate the retreat come summer(or can be oncall come weekends) and wouldn't be worried about money.
+(AKA My Dad?)
+
 * Architect / Planner > Can work on Micro and Macro Level. Passion for Camp.
+(AKA My Sister?)
 
 * Chief and his Three Advisors
 	1. Physical Specialist > Knows Sports
 	2. Skill Specialist > Knows Tech
 	3. Nature Specialist > Knows Earth
+
+
+## Michael Porter's Five Factors 
+1. Technology changes - underutilized / outmoded
+2. Regulation is not the concern, Insurance is the concern?
+3. Competition - Feels like "Ripe For Disruption" territory
+
+4. Environmental and natural resources - Sustainability Baked In
+
+5. Human Capital - My experience is of a great and growing pool.
+aka Shit Tons of Smart, Sharp, Stand-Up, Underemployed Peers with Skills
+
 
 ## Traditional Summer Camp Is : 
 
@@ -66,23 +84,34 @@ likes summer camp, would appreciate the retreat come summer(or can be oncall com
 * Love
 (Nominate Another)
 
-### Skills :
+### "Hobbies" :
+* "Pioneering"
+* Woodworking
 * Photography
-* Video
-* 3D Printing
-* Computer Modeling
 * Swimming
 * Archery
 * Riflery
 * Camping
 (Nominate Another)
 
+### New "Skill Sheds" :
+* Robotics
+* 3D Modeling + Printing
+* Videography
+* Building (Sensing) Networks
+* Farming / Growing
+* Energy Harvesting
+* Publishing
+* MoldMaking
+* Illustration
+* Bio Hacking? 
+* Data Gathering?
 
 ### Sports :
 * Basketball
 * Swimming
 * Soccer
-(Nominate Another)
+and so on. 
 
 ### Socialization : 
 * Socials
@@ -93,13 +122,6 @@ likes summer camp, would appreciate the retreat come summer(or can be oncall com
 * Songs
 * Performance
 * Fires
-
-
-### what Differenciates OSSC?
-
-1: Kids Participate in Building The Camp, Physically and
-  Conceptually.
-2: Opportunties to Exend Education into Design + Printing
 
 
 
