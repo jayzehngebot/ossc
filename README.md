@@ -1,6 +1,6 @@
-# Open-Source Summer Camp (OSSC) | CAMP ROOK & CAMP ABLE
+## Open-Source Summer Camp (OSSC)
+# Camp Rook and Camp Able
 ## Summer Camp for Future Makers
-  
 ------------------------------------------	
 
 ## Can we do Camp Better?
