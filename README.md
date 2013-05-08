@@ -6,9 +6,8 @@
 ### 3. Camp is a place for future makers. Could serve everyone.
 
 
-<p align="center">
+
   ![Make Or Consume](http://www.jayzehngebot.com/ossc/img/MakeOrConsume.jpg)
-</p>
 
 
 ------------------------------------------	
