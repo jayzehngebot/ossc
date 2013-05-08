@@ -1,5 +1,4 @@
-### Open-Source Summer Camp  (OSSC)
-# Camp Able
+# Open-Source Summer Camp  (OSSC)
 ------------------------------------------	
 
 ## Summer Camp is great
