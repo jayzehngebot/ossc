@@ -1,16 +1,17 @@
 ## Open-Source Summer Camp
-aka Camp Makerkid aka
-### CAMP ROOK or CAMP ABLE
+### CAMP ROOK & CAMP ABLE
 
 ### 1. Can a low-cost camp compete, without compromising on staff, safety, facilities & equipment?
 ### 2. Can Maker Camp excell in terms of camper development, creative-engagement, and experiential education?
 ### 3. Camp is a place for future makers. Could serve everyone.
 
+------------------------------------------	
+
 ## Can we do Camp Better?
 
 #### Kids Participate in Building The Camp, Physically and Conceptually.
-#### Targets the "hobbyist" niche overlooked by traditional summer camps
-#### Serve A Diverse and Growing General Population, not just the Well-Off
+#### Targets the "hobbyist" niche overlooked by traditional summer camps.
+#### Serve A diverse and growing general population, not just the well-to-do.
 
 #### What physical things could be unique to/for individual kids at a summer camp?
 #### Where can they experience a tight educational feedback loop
@@ -19,9 +20,11 @@ aka Camp Makerkid aka
 	* Games / Chess / Rainy-day Activities
 	* Soap / Toothbrush Tray (Name, Team, Year?)
 	* Suit CoatHooks?
-	* (Image : First DIY Activity : Personal Torch Assembly (A Flashlight))
+	* (Image : First DIY Activity : Unique Torch Assembly )
+	
+------------------------------------------	
 
-### My Personal Strengths:
+### Personal Strengths:
 
 * Bridge Builder / Finder of Common Ground.
 * Background in design and passion for communication.
@@ -29,7 +32,7 @@ aka Camp Makerkid aka
 * Fairly Competent Coder and Fearless Editor. 
 * Openminded Problem Solver.
 
-### Summer Camp Specific
+### Summer Camp Specific: 
 * Grew Up Summer Camping
 * Solid Generalist
 
@@ -76,6 +79,10 @@ likes summer camp, would appreciate the retreat come summer(or can be oncall com
 
 *  **3 Co-Councilors**, Paired into bunks above. Flex.
 
+19 total ^ 
+
+------------------------------------------	
+
 ## Michael Porter's Five Factors 
 1. Technology Changes - Better Positioned to build foundation on newly accessible tools.
 2. Regulation is not the concern, Insurance is the concern?
@@ -84,6 +91,7 @@ likes summer camp, would appreciate the retreat come summer(or can be oncall com
 5. Human Capital - My experience is that of a great and growing pool.
 aka I Know A Ton of smart, skillful, stand-up, responsible, stupidly underemployed people.
 
+------------------------------------------	
 
 ### Strategy :
 
