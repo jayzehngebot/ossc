@@ -1,26 +1,24 @@
-## Open-Source Summer Camp (OSSC)
-### CAMP ROOK & CAMP ABLE
-
-### 1. Can a low-cost overnight camp compete without compromising on staff, safety, facilities & equipment?
-### 2. Can OSSC excel in spheres of camper development, creative-engagement, and experiential education?
-### 3. Camp is a place for future makers. Could serve everyone.
-
-
-
-  ![Make Or Consume](http://www.jayzehngebot.com/ossc/img/MakeOrConsume.jpg)
-
-
+# Open-Source Summer Camp (OSSC) | CAMP ROOK & CAMP ABLE
+## Summer Camp for Future Makers
+  
 ------------------------------------------	
 
 ## Can we do Camp Better?
 
-#### Kids Participate in Building The Camp, Physically and Conceptually.
-#### Targets the "hobbyist" niche overlooked by traditional summer camps.
-#### Serve A diverse and growing general population, not just the well-to-do.
-#### Energy : Net Positive 
+### 1. Can a low-cost overnight camp compete without compromising on staff, safety, facilities & equipment?
+### 2. Can OSSC excel at individual camper development, creative-engagement, and customized, experiential education?
+### 3. Can OSSC model a batter balance of intellect and athleticism?
+
+## What would this look like?
+
+* Kids Participate in Building The Camp, Physically and Conceptually.
+* Targets the "hobbyist" niche under-served by traditional / sports-oriented summer camps.
+* Serves a diverse and growing general population, not just the well-to-do.
+* Off-Grid / Net-Positive / Self-Sustaining
+* Food Conscious 
 
 #### What physical things could be unique to/for individual kids at a summer camp?
-#### Where can they experience a tight educational feedback loop
+#### Where can they experience a tight educational / environmental feedback loop
 	* Individually-Fit Equiptment. 
 	* ModelBuilding (Mini Boats, Ball Tracks & Building-Blocks)
 	* Games / Chess / Rainy-day Activities
@@ -69,11 +67,11 @@ likes summer camp, would appreciate the retreat come summer(or can be oncall com
 (AKA My Sister?)
 
 * **Food & Farming** >  Progressive Grower 
-*  Staff of two in season. Kids farm some.
+*  Staff of two in season. Rotating Kid Contribution.
 
 * **Kitchen** > Menu and Meal Prep
 * Two people making 3 Meals a day for Intro Year of 
-  30 Kids and 10 staff
+  30 Kids and 10 staff. Rotating Kid Contribution.
   
   three bunks of 10 
 
@@ -89,7 +87,7 @@ likes summer camp, would appreciate the retreat come summer(or can be oncall com
 
 ------------------------------------------	
 
-## Michael Porter's Five Factors 
+## Addressing Michael Porter's Five Factors 
 1. Technology Changes - Better Positioned to build foundation on newly accessible tools.
 2. Regulation is not the concern, Insurance is the concern?
 3. Competition - Feels like "Ripe For Disruption" territory. Serves its core audience, neglects growing, low-cost market. Business-as-usual approach.
@@ -99,16 +97,16 @@ aka I Know A Ton of smart, skillful, stand-up, responsible, stupidly underemploy
 
 ------------------------------------------	
 
-### Strategy :
+#  Strategy :
 
-#### Background:
+##  Background:
 	
 I attended summer camp for two months every summer from the age of 7 until I was 14. It was an all boys camp, located in Maine. I loved it. I'm lucky I was able to go. 
 My summers were a time for me to explore and begin forging my own character. Summer camp was an important platform for building character. A place to practice values-driven living. 
 
 ------------------------------------------			
 		
-#### Landscape: 
+##  Landscape: 
 
 Like Higher Ed, Summer Camp is problematically expensive.
 			
@@ -122,7 +120,7 @@ I See Opportunity for Real Change & Individual Growth In Ways That Matter
 
 ---------------------------------------------
 
-### Timeline
+## Timeline
 
 ####Working at WSJ and Teaching Small Web Class this Summer.
 	
@@ -141,6 +139,8 @@ taking some design commissions and working on OSSC > Raising Capital, Building I
 
 #### 5 Years Out : I am 33. A growing camp + farm exists, with access to water. We're heading into the second summer of OSSC, with 150% Enrollment. 
 
+---------------------------------------------
+
 ## Moneys
 
 Sliding Scale 1 - 3K per kid per summer - 2 Months total time. 
@@ -152,6 +152,10 @@ Startup Capital : 1M? Land, Tools, Resources & Development?
 5k per staff for a summer of work?
 
 This is ~ 1/5th the Cost of current Summer Camp 
+
+---------------------------------------------
+
+  ![Maker](http://www.jayzehngebot.com/ossc/img/FUTUREMAKER.jpg)
 
 
 
