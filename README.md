@@ -1,21 +1,23 @@
-## Open-Source Summer Camp (OSSC)
 # Camp Rook and Camp Able
-## Summer Camp for Future Makers
+## Open-Source Summer Camp  (OSSC)
 ------------------------------------------	
 
-## Can we do Camp Better?
+#### Summer Camp is great
+#### But can it be better?
 
 ### 1. Can a low-cost overnight camp compete without compromising on staff, safety, facilities & equipment?
-### 2. Can OSSC excel at individual camper development, creative-engagement, and customized, experiential education?
+### 2. Can OSSC excel at creative-engagement, providing opportunities for ownership, and experiential education?
 ### 3. Can OSSC model a batter balance of intellect and athleticism?
 
-## What would this look like?
+## What would Summer Camp for Future Makers look like?
+
+  ![Maker](http://www.jayzehngebot.com/ossc/img/futureCamp.jpg)
 
 * Kids Participate in Building The Camp, Physically and Conceptually.
 * Targets the "hobbyist" niche under-served by traditional / sports-oriented summer camps.
 * Serves a diverse and growing general population, not just the well-to-do.
 * Off-Grid / Net-Positive / Self-Sustaining
-* Food Conscious 
+* Food Conscious
 
 #### What physical things could be unique to/for individual kids at a summer camp?
 #### Where can they experience a tight educational / environmental feedback loop
@@ -25,6 +27,8 @@
 	* Soap / Toothbrush Tray (Name, Team, Year?)
 	* Suit CoatHooks?
 	* (Image : First DIY Activity : Unique Torch Assembly )
+	
+![Maker](http://www.jayzehngebot.com/ossc/img/futureCamp2.jpg)
 	
 ------------------------------------------	
 
@@ -53,7 +57,7 @@
 
 * **Director** > Guidance, Communications, Capital, Recruitment, Officiation. 
 
-* **Technician** / Carpenter / Engineer > Ideally, Someone who understands and interweaves traditional construction skills and modern DigiFab skills
+* **Facilities Manager / Technician** / Carpenter / Engineer > Ideally, Someone who understands and interweaves traditional construction skills and modern DigiFab skills
 	a. staff of / one / in season.
 	
 * **Systems Person** > Ideally, Someone who loves systems & structures, organization. Competent Coder.
@@ -83,8 +87,6 @@ likes summer camp, would appreciate the retreat come summer(or can be oncall com
 
 *  **3 Co-Councilors**, Paired into bunks above. Flex.
 
-19 total ^ 
-
 ------------------------------------------	
 
 ## Addressing Michael Porter's Five Factors 
@@ -95,14 +97,16 @@ likes summer camp, would appreciate the retreat come summer(or can be oncall com
 5. Human Capital - My experience is that of a great and growing pool.
 aka I Know A Ton of smart, skillful, stand-up, responsible, stupidly underemployed people.
 
-------------------------------------------	
+------------------------------------------
 
-#  Strategy :
+#  Strategy
 
-##  Background:
+------------------------------------------
+
+##  Background :
 	
 I attended summer camp for two months every summer from the age of 7 until I was 14. It was an all boys camp, located in Maine. I loved it. I'm lucky I was able to go. 
-My summers were a time for me to explore and begin forging my own character. Summer camp was an important platform for building character. A place to practice values-driven living. 
+My summers were a time for me to explore and begin forging my own character. Summer camp was an important platform for building character and practicing values.
 
 ------------------------------------------			
 		
@@ -112,7 +116,7 @@ Like Higher Ed, Summer Camp is problematically expensive.
 			
 Unlike Higher Ed, Summer Camp is not generally viewed as critical to one's success.
 			
-Therefore, Summers go Underutilized. 
+Therefore, For too many kids, summers are squandered.
 			
 Moreover, Summer Camp provides space to be less test-driven / goal-oriented than school, without sacrificing positive outcomes. 
 			
@@ -146,7 +150,8 @@ taking some design commissions and working on OSSC > Raising Capital, Building I
 Sliding Scale 1 - 3K per kid per summer - 2 Months total time. 
 
 #### Envelope Math
-Startup Capital : 1M? Land, Tools, Resources & Development?
+Startup Capital : 1M? Land (~500k) , Tools, Resources, Development.
+^ Admittedly, Somewhat out of my depth.
 
 45 * 2000 90k / 18 = 5k 
 5k per staff for a summer of work?
