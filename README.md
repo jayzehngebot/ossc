@@ -9,9 +9,13 @@
 ### 2. Can OSSC excel at creative-engagement, providing opportunities for ownership, and experiential education?
 ### 3. Can OSSC model a batter balance of intellect and athleticism?
 
-## What would Summer Camp for Future Makers look like?
+## What Could Summer Camp for Future Makers look like?
 
-  ![Maker](http://www.jayzehngebot.com/ossc/img/futureCamp.jpg)
+![Maker](http://www.jayzehngebot.com/ossc/img/futureMakers1.jpg)
+
+![Maker](http://www.jayzehngebot.com/ossc/img/futureMakers2.jpg)
+
+![Maker](http://www.jayzehngebot.com/ossc/img/futureMakers3.jpg)
 
 * Kids Participate in Building The Camp, Physically and Conceptually.
 * Targets the "hobbyist" niche under-served by traditional / sports-oriented summer camps.
@@ -28,15 +32,16 @@
 	* Suit CoatHooks?
 	* (Image : First DIY Activity : Unique Torch Assembly )
 	
-![Maker](http://www.jayzehngebot.com/ossc/img/futureCamp2.jpg)
 	
 ------------------------------------------	
 
+![Maker](http://www.jayzehngebot.com/ossc/img/Teaching1.jpg)
+
 ### Personal Strengths:
 
+* Natural inclination to teach, greatly enjoy working with kids.
 * Bridge Builder / Finder of Common Ground.
 * Background in design and passion for communication.
-* Natural inclination to teach, greatly enjoy working with kids.
 * Fairly Competent Coder and Fearless Editor. 
 * Openminded Problem Solver.
 
