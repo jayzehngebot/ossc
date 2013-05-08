@@ -1,6 +1,6 @@
-## Open-Source Summer Camp 
+## Open-Source Summer Camp
 aka Camp Makerkid aka
-## CAMP ROOK & CAMP P
+### CAMP ROOK or CAMP ABLE
 
 ### 1. Can a low-cost camp compete, without compromising on staff, safety, facilities & equipment?
 ### 2. Can Maker Camp excell in terms of camper development, creative-engagement, and experiential education?
@@ -36,7 +36,7 @@ aka Camp Makerkid aka
 ### Weaknesses:
 * Micromanager
 * Overly-Goal-Oriented
-* Experience running org
+* Little Experience Running Org
 
 ## People & Skills Needed :
 #### All are subset of people who love kids and love to teach
@@ -47,7 +47,7 @@ aka Camp Makerkid aka
 * **Director** > Guidance, Communications, Capital, Recruitment, Officiation. 
 
 * **Technician** / Carpenter / Engineer > Ideally, Someone who understands and interweaves traditional construction skills and modern DigiFab skills
-	a. staff of / one off / two in / season.
+	a. staff of / one / in season.
 	
 * **Systems Person** > Ideally, Someone who loves systems & structures, organization. Competent Coder.
 	a Would work most closely with Director
@@ -69,76 +69,21 @@ likes summer camp, would appreciate the retreat come summer(or can be oncall com
   three bunks of 10 
 
 * **Staff Captain** >> Also Handles Hiring
-	Three Chief Advisors : 
+	Three Chief Councilors : 
 	1. Physical Specialist > Knows Sport < - One Bunk
 	2. Skill Specialist > Knows Art + Tech  < - One Bunk
 	3. Nature Specialist > Knows Earth  < - One Bunk
 
-*  **3 Councilors**, Paired into bunks above. 
+*  **3 Co-Councilors**, Paired into bunks above. Flex.
 
 ## Michael Porter's Five Factors 
-1. Technology changes - underutilized / outmoded
+1. Technology Changes - Better Positioned to build foundation on newly accessible tools.
 2. Regulation is not the concern, Insurance is the concern?
-3. Competition - Feels like "Ripe For Disruption" territory
-
-4. Environmental and natural resources - Sustainability Baked In
-
+3. Competition - Feels like "Ripe For Disruption" territory. Serves its core audience, neglects growing, low-cost market. Business-as-usual approach.
+4. Environmental and natural resources - Sustainability Baked In.
 5. Human Capital - My experience is that of a great and growing pool.
-aka Shit Tons of Smart, Sharp, Stand-Up, Responsible, Stupidly Underemployed Peers with Skills
+aka I Know A Ton of smart, skillful, stand-up, responsible, stupidly underemployed people.
 
-## Traditional Summer Camp Is : 
-
-### Values : 
-* Magnanimity
-* Integrity
-* Tolerance
-* Sportsmanship
-* Self-Reliance
-* Loyalty
-* Honesty 
-* Love
-(Nominate Another)
-
-### "Hobbies" :
-* "Pioneering"
-* Woodworking
-* Photography
-* Swimming
-* Archery
-* Riflery
-* Camping
-(Nominate Another)
-
-### New "Skill Sheds" :
-* Robotics
-* 3D Modeling + Printing
-* Videography
-* Building (Sensing) Networks
-* Farming / Growing
-* Energy Harvesting
-* Publishing
-* MoldMaking
-* Illustration
-* Bio Hacking? 
-* Data Gathering?
-
-### Sports :
-* Basketball
-* Swimming
-* Soccer
-and so on. 
-
-### Socialization : 
-* Socials
-* Friendship
-* Communal Living
-
-### Tradition :
-* Songs
-* Performance
-* Fires
-
-------------------------------------------
 
 ### Strategy :
 
@@ -150,37 +95,55 @@ My summers were a time for me to explore and begin forging my own character. Sum
 ------------------------------------------			
 		
 #### Landscape: 
-			Like Higher Ed, Summer Camp is problematically expensive.
+
+Like Higher Ed, Summer Camp is problematically expensive.
 			
-			Unlike Higher Ed, Summer Camp is not generally viewed as critical to one's success.
+Unlike Higher Ed, Summer Camp is not generally viewed as critical to one's success.
 			
-			Therefore, Summers go Underutilized. 
+Therefore, Summers go Underutilized. 
 			
-			Moreover, Summer Camp provides space to be less test-driven / goal-oriented than school, without sacrificing positive outcomes. 
+Moreover, Summer Camp provides space to be less test-driven / goal-oriented than school, without sacrificing positive outcomes. 
 			
-			I See Opportunity for Real Change & Individual Growth In Ways That Matter
+I See Opportunity for Real Change & Individual Growth In Ways That Matter
 
 ---------------------------------------------
 
-### Timeline	
-Next Year. Continued Development of Web Skills > Build Out OSSC Web Functionality > Can the web :
+### Timeline
 
-		1: Drive Interest and Involvement
-		2: Help Raise Capital Funds
+####Working at WSJ and Teaching Small Web Class this Summer.
+	
+Building the Following Capabilities :
+1. Platform Development
+2: Market Engagement
+3. Respectable Resume
 
-		Skills Necessary:
-			Carpentry
-			Electrical Engineering
-			Printshop
-			
-------------------------------------------
+#### Next Year. Work hard and learn at ITP
+
+#### Upon Graduation. Potentially Pursue ITP Resident Position > Continued Open Source Activity. Practice Teaching, Network Building, 
+Continued exposure to changing landscape.
+
+#### 3 Years Out : part time teaching a University-level new media / creative tech program. 
+taking some design commissions and working on OSSC > Raising Capital, Building Identity, Generating Interest, Networking.
+
+#### 5 Years Out : I am 33. a small campus + farm exists, with access to water. We're heading into the second summer of OSSC, with 150% Enrollment. 
+
+## Moneys
+
+Sliding Scale 1 - 3K per kid per summer - 2 Months total time. 
+
+#### Envelope Math
+45 * 2000 90k / 18 = 5k 
+5k per staff for a summer of work?
+
+This is ~ 1/5th the Cost of current Summer Camp 
 
 
 
 
-	Working at WSJ and Teaching Small Web Class this Summer.
 
-	Graduate. Maybe Work as ITP resident? Practice Teaching. Continue 
+
+
+
 
 
 
