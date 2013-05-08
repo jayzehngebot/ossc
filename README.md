@@ -17,6 +17,10 @@
 
 ![Maker](http://www.jayzehngebot.com/ossc/img/futureMakers3.jpg)
 
+## Basically, ITP with Canoes
+
+### What physical things could be unique to/for individual kids at a summer camp?
+
 * Kids Participate in Building The Camp, Physically and Conceptually.
 * Targets the "hobbyist" niche under-served by traditional / sports-oriented summer camps.
 * Serves a diverse and growing general population, not just the well-to-do.
@@ -27,38 +31,39 @@
 #### Where can they experience a tight educational / environmental feedback loop
 	* Individually-Fit Equiptment. 
 	* ModelBuilding (Mini Boats, Ball Tracks & Building-Blocks)
-	* Games / Chess / Rainy-day Activities
-	* Soap / Toothbrush Tray (Name, Team, Year?)
-	* Suit CoatHooks?
-	* (Image : First DIY Activity : Unique Torch Assembly )
-	
+	* Games / Rainy-day Activities
+	* Stupid Plastic Stuff (Toothbrush and Soap Container with Name, Team, Year?)
+	* Bathing-Suit CoatHooks?
+	* Unique Torch Assembly aka Custom Flashlights
 	
 ------------------------------------------	
 
 ![Maker](http://www.jayzehngebot.com/ossc/img/Teaching1.jpg)
 
-### Personal Strengths:
+## Personal Strengths:
 
 * Natural inclination to teach, greatly enjoy working with kids.
 * Bridge Builder / Finder of Common Ground.
 * Background in design and passion for communication.
 * Fairly Competent Coder and Fearless Editor. 
-* Openminded Problem Solver.
+* Openminded Problem Solver + Very Creative Dude
 
-### Summer Camp Specific: 
+#### Summer Camp Specific: 
 * Grew Up Summer Camping
-* Solid Generalist
+* Generalist
 
 ### Weaknesses:
 * Micromanager
 * Overly-Goal-Oriented
 * Little Experience Running Org
 
+------------------------------------------	
+
 ## People & Skills Needed :
-#### All are subset of people who love kids and love to teach
-#### All able to translate their knowledge into kid-ready projects / activities / curricula
-#### All aiding / aided by open-source tools + methodologies
-#### A balance of men and women is critically important with respect to the positions below
+* All are subset of people who love kids and love to teach
+* All able to translate their knowledge into kid-ready projects / activities / curricula
+* All aiding / aided by open-source attitudes, tools + methodologies
+* A balance of men and women is critically important with respect to the positions below
 
 * **Director** > Guidance, Communications, Capital, Recruitment, Officiation. 
 
@@ -96,17 +101,15 @@ likes summer camp, would appreciate the retreat come summer(or can be oncall com
 
 ## Addressing Michael Porter's Five Factors 
 1. Technology Changes - Better Positioned to build foundation on newly accessible tools.
-2. Regulation is not the concern, Insurance is the concern?
-3. Competition - Feels like "Ripe For Disruption" territory. Serves its core audience, neglects growing, low-cost market. Business-as-usual approach.
+2. Regulation is less a concern than insurance coverage?
+3. Competition - Feels like "Ripe For Disruption" territory. i.e. Focused on serving its core market, to the neglect of growing low-cost market. Business-as-usual approach.
 4. Environmental and natural resources - Sustainability Baked In.
 5. Human Capital - My experience is that of a great and growing pool.
-aka I Know A Ton of smart, skillful, stand-up, responsible, stupidly underemployed people.
+I know a ton of smart, skillful, responsible people who are good with kids and sadly underemployed.
 
 ------------------------------------------
 
 #  Strategy
-
-------------------------------------------
 
 ##  Background :
 	
@@ -131,32 +134,43 @@ I See Opportunity for Real Change & Individual Growth In Ways That Matter
 
 ## Timeline
 
-####Working at WSJ and Teaching Small Web Class this Summer.
+####Working at WSJ and Teaching Small Web Class this Summer:
 	
-Building the Following Capabilities :
-1. Platform Development
-2: Market Engagement
-3. Respectable Resume
+Practicing the Following Capabilities :
+* Platform Development
+* Practice Teaching
+* Credentials / Credibility
 
-#### Next Year. Work hard and learn at ITP
+#### Next Year. Work hard at ITP:
 
-#### Upon Graduation. Potentially Pursue ITP Resident Position > Continued Open Source Activity. Practice Teaching, Network Building, 
-Continued exposure to changing landscape.
+#### Upon Graduation. Potentially Pursue ITP Resident Position:
+* Continued Open Source Activity. Practice Teaching, Network Building.
+* Continued exposure to changing educational / technological landscape. 
 
-#### 3 Years Out : part time teaching a University-level new media / creative tech program. 
-taking some design commissions and working on OSSC > Raising Capital, Building Identity, Generating Interest, Networking.
+#### 3 Years Out : 
+* Part time teaching a University-level new media / creative tech program. 
+* design commissions. 
+* Nights + Weekends / during summer, working on OSSC :
+Raising Capital, Building Identity, Generating Interest, Finding Committed Teammates.
 
-#### 5 Years Out : I am 33. A growing camp + farm exists, with access to water. We're heading into the second summer of OSSC, with 150% Enrollment. 
+#### 4 Years Out 
+* Part time teaching a University-level new media / creative tech program. 
+* Putting Down Capital for Land. Beginning Development. Finalizing Model
+* Recruiting for first season
+
+#### 5 Years Out : I am 33
+* Part time teaching a University-level new media / creative tech program. 
+* First Summer. Launch Camp.
 
 ---------------------------------------------
 
-## Moneys
+## Rough Moneys
 
 Sliding Scale 1 - 3K per kid per summer - 2 Months total time. 
 
 #### Envelope Math
 Startup Capital : 1M? Land (~500k) , Tools, Resources, Development.
-^ Admittedly, Somewhat out of my depth.
+^ Admittedly, mostly making this up.
 
 45 * 2000 90k / 18 = 5k 
 5k per staff for a summer of work?
