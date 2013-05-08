@@ -1,5 +1,5 @@
-# Camp Rook and Camp Able
-## Open-Source Summer Camp  (OSSC)
+### Open-Source Summer Camp  (OSSC)
+# Camp Able
 ------------------------------------------	
 
 ## Summer Camp is great
